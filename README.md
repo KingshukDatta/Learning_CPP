@@ -1,59 +1,30 @@
+# C++ Learning & DSA Practice 🚀
 
-# Learning C++ 🚀
+Welcome to my C++ repository! This workspace is dedicated to tracking my progress as I learn C++ fundamentals and dive deep into Data Structures and Algorithms (DSA). 
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)
+## 📚 About This Repository
 
-## 📖 About This Repository
+This repository contains my personal coding exercises, algorithm implementations, and problem-solving attempts. A significant portion of the DSA concepts and problems here are structured around the [C++ DSA Course by Apna College](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=rgVbSLoU2mFZ5ePs).
 
-Welcome to my C++ learning journey! This repository serves as a centralized collection of code snippets, exercises, and projects I have written while mastering the C++ programming language.
+## 🗂️ Folder Structure
 
-It documents my progress from the fundamentals to more advanced concepts, providing a reference for standard C++ syntax and logic.
+### 1. `DSA_CPP by apna college/`
+This directory holds the core data structures and algorithm implementations from the course, organized by topic:
+* **Algorithms:**
+    * `Kadane's Algorithm` (Maximum Subarray Sum)
+    * `Moore's Voting Algorithm` (Majority Element)
+    * `Search Algorithms` (Linear/Binary Search, etc.)
+* **Array Problems:** Various problem-solving scripts like `pairSum`, `subarray` optimizations, and brute-force vs. optimized approaches.
 
-## 📂 Repository Contents
+### 2. Root Directory (Basics)
+The main folder contains foundational C++ exercises used to master syntax and core concepts:
+* `variables.cpp` & `constant.cpp`: Data types and immutability.
+* `exercise01_variables.cpp` & `exercise02_operators.cpp`: Hands-on syntax practice.
+* `mathematical_expressions.cpp`: Arithmetic and logic operations.
 
-Here is an overview of the concepts covered in this repository:
-
-| File Name | Topic Covered | Description |
-| :--- | :--- | :--- |
-| `variables.cpp` | **Variables** | Introduction to declaring and initializing variables. |
-| `constant.cpp` | **Constants** | Understanding `const` and immutable data types. |
-| `mathematical_expressions.cpp` | **Math** | Implementation of standard mathematical logic and expressions. |
-| `exercise01_variables.cpp` | **Practice** | Practical exercises focusing on variable manipulation. |
-| `exercise02_operators.cpp` | **Operators** | Usage of arithmetic, assignment, and comparison operators. |
-
-## 🛠️ Getting Started
-
-To run these files on your local machine, ensure you have a C++ compiler installed (such as GCC or MinGW).
-
-### Prerequisites
-* A C++ Compiler (g++)
-* A Code Editor (VS Code, CLion, or Visual Studio)
-
-### Compilation & Execution
-You can compile and run any of the source files using the terminal:
-
-```bash
-# Compile the file
-g++ variables.cpp -o variables
-
-# Run the executable
-./variables
-
-```
-
-## 🤝 Contribution
-
-Since this is a personal learning repository, it is primarily for tracking my own progress. However, suggestions on code optimization or best practices are always welcome!
+## 🛠️ Tech Stack
+* **Language:** C++
+* **Tools:** Visual Studio Code, Git
 
 ## 👨‍💻 Author
-
-**KingshukDatta**
-
-* [KingshukDatta](https://www.google.com/search?q=https://github.com/KingshukDatta)
-
----
-
-*Created with C++ and dedication.*
-
+**Kingshuk Datta**
